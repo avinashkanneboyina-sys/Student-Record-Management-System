@@ -1,2 +1,3 @@
 # Student-Record-Management-System
-This is a college project
+by 
+Avinash - AP24110010841
